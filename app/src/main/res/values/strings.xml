@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hacker News Reader</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="best_stories">BEST STORIES</string>
+    <string name="new_stories">NEW STORIES</string>
+    <string name="ask_stories">ASK STORIES</string>
+    <string name="job_stories">JOB STORIES</string>
+    <string name="show_stories">SHOW STORIES</string>
+    <string name="refresh">refresh</string>
+</resources>

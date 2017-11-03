@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/topStoriesMenuItem"
+        android:title="Top Stories"/>
+    <item
+        android:id="@+id/newStoriesMenuItem"
+        android:title="New Stories"/>
+    <item
+        android:id="@+id/bestStoriesMenuItem"
+        android:title="Best Stories"/>
+    <item
+        android:id="@+id/jobStoriesMenuItem"
+        android:title="Job Stories"/>
+    <item
+        android:id="@+id/askStoriesMenuItem"
+        android:title="Ask Stories"/>
+    <item
+        android:id="@+id/showStoriesMenuItem"
+        android:title="Show Stories"/>
+</menu>
